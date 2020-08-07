@@ -5,4 +5,11 @@ The date range of the online only sales data is from January 2010 to September 2
 
 [This project idea is from this Kaggle competition.](https://www.kaggle.com/carrie1/ecommerce-data)
 
-Stay tuned for further updates!
+To view the actual Jupyter Lab that I have been working in - go to the 'notebooks' folder and select the file: 'ecomm_project.ipynb'.
+
+This notebook is NOT a project with a final conclusion or summary.
+This notebook IS an exploration of the e-commerce data along with things I've found to be useful and interesting (or not).
+
+Each section will have a title or information in non-technical terms to provide context for the code below it.
+
+Thanks for taking a look!
