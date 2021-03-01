@@ -1,4 +1,8 @@
 # E-commerce Data
+
+If the 'ecomm_project.ipynb' file doesn't load, please click this link to view the code and visuals:
+[ecomm_project.ipynb](https://nbviewer.jupyter.org/github/calvintirrell/ecommerce_data/blob/master/notebooks/ecomm_project.ipynb)
+
 Analysis of e-commerce data from a real retail business based in the U.K.
 Work on this project could include a range of models such as time series, classification or clustering.
 The date range of the online only sales data is from January 2010 to September 2011 - so well over 1.5 years.
